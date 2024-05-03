@@ -9,6 +9,8 @@ import B5 from './components/B5.js'
 import B10 from './components/B10.js'
 import B6 from './components/B6.js'
 import B7 from './components/B7.js'
+import B8 from './components/B8.js'
+import B9 from './components/B9.js'
 export default function App() {
   return (
     <div>
@@ -23,6 +25,8 @@ export default function App() {
       <B5></B5>
       <B6></B6>
       <B7></B7>
+      <B8></B8>
+      <B9></B9>
       <B10></B10>
     </div>
   )

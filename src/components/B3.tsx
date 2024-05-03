@@ -17,7 +17,8 @@ export default function B3() {
     
     
   return (
-    <div>B3
+    <div>
+      <h1>B3</h1>
         <h2>Thông tin cá nhân</h2>
         <ul>
             <li>Họ và tên : <b>{name}</b></li>

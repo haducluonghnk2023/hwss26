@@ -4,7 +4,7 @@ export default function B5() {
 
     return (
         <div>
-          <b style={{ fontSize: "20px" }}>B5</b> <br />
+          <h1>B5</h1> <br />
           <div style={{ display: "flex",gap:"20px"}}>
           <div style={{ width: "200px",height:"200px",backgroundColor: "red",display: "flex",gap:"25px",justifyContent:"center" , alignItems:"center" }}>
               Box
